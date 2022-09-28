@@ -1,0 +1,484 @@
+@media(max-width:449.98px){
+  #banner{
+    padding: 160px 0 110px 0;
+  }
+  .profession h1 {
+        font-size: 40px;
+      
+      }
+      .work_deail {
+        margin-top: -190px;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+      .works_special {
+        margin-bottom: -27px;
+      }
+      .works_special h3 {
+        padding-right: 42px;
+        font-size: 18px;
+      }
+      .work_deail span{
+        font-size: 12px;
+      }
+      .w-55 {
+        width: 70%;
+      }
+      .about_img {
+        margin-top: 40px !important;
+       
+      }
+      .about_work {
+        padding-top: 70px;
+      }
+      .resume_heading h2::after {
+          left: 33%;
+        }
+        .resume_heading h2::before {
+          left: 47%;
+        }
+        .resume_heading h2 span::after {
+          right: 37px;
+        }
+        .summary_content p {
+          color: #B8BBBE;
+          font-size: 11px;
+          margin-top: 15px;
+          line-height: 24px;
+        }
+        .work_institue span {
+
+          font-size: 14px;
+        }
+        .work-discribe p {
+        
+          font-size: 12px;
+          line-height: 20px;
+          margin-bottom:10px
+        }
+        .position p {
+          font-size: 14px;
+        
+          padding: 10px 0;
+        
+        }
+        .blog_date {
+        
+          top: 67%;
+          left: 30%;
+        }
+        .venobox i {
+          font-size: 36px;
+          top: 23%;
+          left: 45%;
+        
+        }
+        .practice p {
+        
+          font-size: 10px;
+          
+        }
+        .see_more.text-center {
+          margin-top: 80px;
+        }
+        .button__holder h2 {
+        
+          font-size: 12px;
+        }
+        
+        #testimonial{
+          display: none;
+        }
+
+        input {
+          width: 86.2%;
+        }
+        .copy_write p {
+          display: none;
+        }
+}
+
+@media(min-width:450px) and (max-width:767.98px){
+  #banner{
+    padding: 160px 0 110px 0;
+  }
+  .profession h1 {
+        font-size: 40px;
+      
+      }
+      .work_deail {
+        margin-top: -190px;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+      .works_special {
+        margin-bottom: -27px;
+      }
+      .works_special h3 {
+        padding-right: 42px;
+        font-size: 18px;
+      }
+      .work_deail span{
+        font-size: 12px;
+      }
+      .w-55 {
+        width: 70%;
+      }
+      .about_img {
+        margin-top: 40px !important;
+       
+      }
+      .about_work {
+        padding-top: 70px;
+      }
+      .resume_heading h2::after {
+        left: 38.5%;
+      }
+      .resume_heading h2::before {
+        left: 48%;
+        bottom: -15px;
+      }
+      .resume_heading h2 span::after {
+        right: 37px;
+      }
+      .work_institue span {
+
+        font-size: 14px;
+      }
+      .mt-5 {
+        margin-top: 2.5rem !important;
+      }
+      
+      .position p {
+        font-size: 14px;
+      
+        padding: 10px 0;
+      }
+      
+      .work-discribe p {
+      
+        font-size: 13px;
+       
+      margin-bottom: 10px;
+      }
+      #blog {
+ 
+        padding: 60px 0;
+        
+      }
+      .blog_date {
+        top: 78%;
+        left: 36%;
+      }
+      .practice p {
+        font-size: 12px;
+      }
+      .venobox i {
+        top: 34%;
+        left: 46%;
+      }
+      .button__holder h2 {
+        font-size: 16px;
+      }
+      input {
+        width: 88.5%;
+      }
+      .see_more.text-center {
+        margin-top: 50px;
+        margin-bottom: 40px;
+      }
+      #testimonial {
+       display: none;
+      }
+      
+    .contact_heading h2::after {
+    left: 37%;
+    }
+    .contact_heading h2::before {
+    left: 46%;
+    }
+    .contact_heading h2 span::after {
+    right: 40px;
+    }
+    .copy_write p {
+      display: none;
+    }
+        
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+
+      .resume_heading h2::before {
+        left: 47.5%;
+        bottom: -15px;
+      }
+      .resume_heading h2 span::after {
+        right: 39px;
+      }
+      .resume_heading h2::after {
+        left: 40.7%;
+      }
+      .contact_heading h2::after {
+        left: 39%;
+      }
+      .resume_heading h2 span::after {
+        right: 42px;
+      }
+      input {
+        width: 89.9%;
+      }
+
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+
+  #banner {
+    padding: 180px 0 100px 0;
+  }
+  .follow_me {
+    position: fixed !important;
+    margin-left: 15px;
+    z-index: 9999;
+  }
+  .address_part {
+    border-left: 1px solid #838B8B;
+    margin-top: 20px;
+  }
+  .work_deail {
+    margin-top: -220px;
+   
+  }
+  .works_special {
+    margin-bottom: -8px;
+  }
+
+  .mt-5 {
+    margin-top: .7rem !important;
+  }
+  .works_special h3 {
+    padding-right: 42px;
+    font-size: 22px;
+  }
+  .work_deail span{
+    font-size: 12px;
+  }
+  .works_special {
+    margin-bottom: 15px;
+  }
+  .about_work {
+    padding-top: 100px;
+  }
+  .mt-5 {
+    margin-top: 2.5rem !important;
+  }
+  
+  .blog_date {
+    top: 83%;
+    left: 39%;
+  }
+  .venobox i {
+    left: 46.5%;
+  }
+  .see_more.text-center {
+    margin-top: 10px;
+    padding: 50px 0;
+  }
+  .education {
+    margin-top: 80px;
+    position: relative;
+  }
+  .position p {
+    padding: 5px 0;
+  }
+  input {
+    width: 92.7%;
+   
+  }
+  
+.contact_heading h2::after {
+ 
+  left: 43%;
+
+}
+.contact_heading h2::before {
+  
+  left: 48%;
+ 
+}.contact_heading h2 span::after {
+ 
+  right: 38px;
+ 
+}
+#testimonial .prev {
+  right: 15.5%;
+  top: 66%;
+}
+#testimonial .next {
+  right: 22.5%;
+  top: 66%;
+}
+.footer_social {
+  padding-top: px;
+  padding: 10px;
+}
+.copy_write {
+  margin-bottom: -70px;
+}
+
+}
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+
+  .copy_write p {
+    color: #8A8B8D;
+    font-size: 16px;
+    padding: 30px 0;
+  }
+  .contact_heading h2::after {
+     left: 44.1%;
+    
+   }
+   /* .follow_me {
+
+    margin-left: 10px;
+   
+  } */
+   .contact_heading h2::before {
+   
+     left: 48.5%;
+   
+   }
+   .contact_heading h2 span::after {
+    
+     right: 37px;
+    
+   }
+   #testimonial .prev {
+  
+    right: 17.5%;
+    top: 68%;
+   
+  }
+  
+  #testimonial .next {
+   
+    right: 23.5%;
+    top: 68.1%;
+  
+  }.address_part span {
+    font-size: 9px;
+  
+  }
+  .resume_heading h2::after {
+  
+    left: 40%;
+  
+  }
+  .resume_heading h2 span::after {
+  
+    right: 38px;
+  
+  }
+  .blog_date {
+    top: 80%;
+    left: 38%;
+  }
+  
+  .practice p {
+    font-size: 14px;
+    margin-top: 30px;
+  }
+  .see_more.text-center {
+    margin-top: 150px;
+  }
+  
+  
+  input {
+    width: 91.7%;
+    
+  }
+  .summary_content p {
+   
+    font-size: 11.5px;
+    
+  }
+  .summary_content {
+    background: #29323B;
+    padding: 20px 27px;
+    border: 1px solid #3F474F;
+    display: flex;
+    border-radius: 7px;
+  }
+  .language-part h5 {
+    font-size: 16px;
+    color: #fff;
+    text-transform: capitalize;
+  }
+  .language-part {
+    background: #29323B;
+    padding: 30px 24px;
+    margin-top: 50px;
+    border: 1px solid #3F474F;
+    border-radius: 6px;
+  }
+  .work-discribe p {
+    color: #B8BBBE;
+    font-size: 13px;
+    line-height: 25px;
+  }
+  .position p {
+    font-size: 14px;
+    color: #F89020;
+    padding: 8px 0;
+  }
+}
+
+
+@media(min-width:1200px) and (max-width:1399.98px){
+  .address_part span {
+    font-size: 11.5px;
+    line-height: 29px;
+    Color: #ddd;
+    margin-left: 10px;
+  }
+  
+.resume_heading h2::before {
+  position: absolute;
+  background: #F89020;
+  left: 48.5%;
+  bottom: -15px;
+  width: 30px;
+  height: 1px;
+  content: "";
+}
+.blog_date {
+  top: 82%;
+  left: 40%;
+}
+.venobox i {
+  font-size: 40px;
+  top: 41%;
+  left: 47%;
+}
+.profile_bio {
+  padding: 26px 13px;
+}
+.client_discribe p {
+  font-size: 16px;
+
+  padding-top: 12px;
+}
+.blog_date.extra {
+  margin-top: 30px;
+}
+.testmonial_profile {
+  padding: 26.5px 20px;
+ 
+}
+input {
+  width: 93.2%;
+
+}
+}
